@@ -1,0 +1,11 @@
+E:\P119\C#\GenericTypeCollections\GenericTypeCollections\bin\Debug\netcoreapp3.1\GenericTypeCollections.exe
+E:\P119\C#\GenericTypeCollections\GenericTypeCollections\bin\Debug\netcoreapp3.1\GenericTypeCollections.deps.json
+E:\P119\C#\GenericTypeCollections\GenericTypeCollections\bin\Debug\netcoreapp3.1\GenericTypeCollections.runtimeconfig.json
+E:\P119\C#\GenericTypeCollections\GenericTypeCollections\bin\Debug\netcoreapp3.1\GenericTypeCollections.runtimeconfig.dev.json
+E:\P119\C#\GenericTypeCollections\GenericTypeCollections\bin\Debug\netcoreapp3.1\GenericTypeCollections.dll
+E:\P119\C#\GenericTypeCollections\GenericTypeCollections\bin\Debug\netcoreapp3.1\GenericTypeCollections.pdb
+E:\P119\C#\GenericTypeCollections\GenericTypeCollections\obj\Debug\netcoreapp3.1\GenericTypeCollections.csprojAssemblyReference.cache
+E:\P119\C#\GenericTypeCollections\GenericTypeCollections\obj\Debug\netcoreapp3.1\GenericTypeCollections.AssemblyInfoInputs.cache
+E:\P119\C#\GenericTypeCollections\GenericTypeCollections\obj\Debug\netcoreapp3.1\GenericTypeCollections.AssemblyInfo.cs
+E:\P119\C#\GenericTypeCollections\GenericTypeCollections\obj\Debug\netcoreapp3.1\GenericTypeCollections.dll
+E:\P119\C#\GenericTypeCollections\GenericTypeCollections\obj\Debug\netcoreapp3.1\GenericTypeCollections.pdb
